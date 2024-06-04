@@ -12,6 +12,7 @@ env:
   WEBAPP-NAME: devops-webapp-westeurope-162096902
 
 
+
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
